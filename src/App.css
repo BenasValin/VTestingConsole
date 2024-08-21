@@ -1,0 +1,35 @@
+.app {
+  font-size: 2rem;
+
+}
+body{
+  background-color: #fcfcfc;
+  padding: 30px;
+  box-sizing:  border-box;
+  display: flex;
+  justify-content: center
+}
+button{
+  border: none;
+  font-size: 1.5rem;
+  background-color: orange;
+  border-radius: 20px;
+  padding: 0.5rem 1rem 0.5rem 1rem;
+  margin: 0.5rem;
+  display: flex;
+  align-items: center
+}
+button:hover{
+  opacity: 90%;
+}
+button:active{
+  opacity: 60%;
+}
+.reportContainer{
+  background-color: white;
+    box-shadow: 0 10px 10px 10px #f0f0f0;
+    padding: 20px
+}
+#taip:checked ~ .OKInputContainer{
+  border: 1px solid black;
+}

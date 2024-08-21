@@ -1,0 +1,21 @@
+{
+    "screen":[
+        "Cracked Screen",
+        "Dead pixel count above manufacturer standart",
+        "Cracked LCD"
+    ],
+    "body":[
+        "Cracked body",
+        "The body is cracked"
+    ],
+    "accounts":[
+        "The device has an account lock"
+    ],
+    "ports": [
+        "The HDMI port is broken",
+        "The VGA port is broken",
+        "The DisplayPort port is broken",
+        "The USB port ir broken",
+        "The power port is broken"
+    ]
+}

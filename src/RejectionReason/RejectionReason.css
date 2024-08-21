@@ -1,0 +1,10 @@
+.otherCategoryContainer{
+    border: 1px solid rgb(206, 206, 206);
+    border-radius: 20px;
+    padding: 10px;
+    margin-bottom: 20px;
+    box-shadow: 0 10px 10px 10px #f0f0f081;
+}
+.otherCategoryHeader{
+    text-transform:capitalize;
+}

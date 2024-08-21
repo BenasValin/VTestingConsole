@@ -1,0 +1,18 @@
+{
+  "consoles": [
+    "turnson",
+    "screen",
+    "opticaldiskdrive",
+    "ports",
+    "body",
+
+    "controllers",
+    "accounts",
+    "wifi",
+    "smellsnoises",
+    "loadtest"
+  ],
+  "laptops": ["turnson", "screen", "wifi"],
+  "smartwatches": ["turnson", "ports", "loadtest"],
+  "audio": ["turnson", "serialnumber"]
+}

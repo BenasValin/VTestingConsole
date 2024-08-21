@@ -1,0 +1,15 @@
+CREATE TABLE [Restorie].[dbo].[devices] (
+    [id] INT PRIMARY KEY IDENTITY(1,1),
+    [turnson] BIT,
+    [screen] VARCHAR(255),
+    [body] VARCHAR(255),
+    [controllers] VARCHAR(255),
+    [ports] VARCHAR(255),
+    [accounts] VARCHAR(255),
+    [smellsnoises] VARCHAR(255),
+    [opticaldiskdrive] VARCHAR(255),
+    [wifi] VARCHAR(255),
+    [loadtest] VARCHAR(255),
+    [category] VARCHAR(255),
+    [serialnumber] VARCHAR(255)
+);
